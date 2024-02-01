@@ -15,9 +15,9 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+Here's a walkthrough of implemented user stories:
 
-[Video Walkthrough](https://i.imgur.com/zPMq9jh.gif).
+<img src='https://i.imgur.com/zPMq9jh.gif' title='Video Walkthrough' width=' ' alt='Video Walkthrough'/>
 
 ## App Brainstorming (Step 4)
 Favorite Applications:
